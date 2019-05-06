@@ -1,6 +1,6 @@
 ## ATextUtils 
 
-[![license](http://img.shields.io/badge/license-Apache2.0-brightgreen.svg?style=flat)](https://github.com/Pinned/ATextUtils/blob/master/LICENSE) 
+[![license](http://img.shields.io/badge/license-Apache2.0-brightgreen.svg?style=flat)](https://github.com/Pinned/ATextUtils/blob/master/LICENSE) [![](https://jitpack.io/v/Pinned/ATextUtils.svg)](https://jitpack.io/#Pinned/ATextUtils) 
 
 Android Logcat formatted data in a table format.
 
